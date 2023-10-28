@@ -5,11 +5,6 @@ pipeline{
     }
     stages
     {
-        stage('git clone'){
-            steps{
-                git 'https://github.com/lokeshwarir2/loki.git'
-            }
-        }
         stage('validate'){
             steps{
                 sh 'mvn validate'
