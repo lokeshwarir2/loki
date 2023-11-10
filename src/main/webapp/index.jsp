@@ -17,7 +17,7 @@
         align-items: center;
         min-height: 100vh;
         user-select: none;
-        background-color: black;
+        background-color: white;
     }
 
     .container {
