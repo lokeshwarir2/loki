@@ -105,7 +105,7 @@
 </style>
 
 <body>
-<h2 align="center">SCIENTIFIC CALUCULATOR</h2>
+<h2 align="top">SCIENTIFIC CALUCULATOR</h2>
     <div class="container">
         <div class="display">
             <input id="screen" type="text" placeholder="0">
