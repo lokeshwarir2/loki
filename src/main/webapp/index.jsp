@@ -105,7 +105,6 @@
 </style>
 
 <body>
-<h2 align="top">SCIENTIFIC CALUCULATOR</h2>
     <div class="container">
         <div class="display">
             <input id="screen" type="text" placeholder="0">
@@ -122,7 +121,7 @@
             </div>
 
             <div class="row">
-                <button onclick="sin()">sin</button>
+                <button onclick="sin()">sin()</button>
                 <button onclick="pi()">π</button>
                 <button class="btn">7</button>
                 <button class="btn">8</button>
@@ -131,7 +130,7 @@
             </div>
 
             <div class="row">
-                <button onclick="cos()">cos</button>
+                <button onclick="cos()">cos()</button>
                 <button onclick="log()">log</button>
                 <button class="btn">4</button>
                 <button class="btn">5</button>
@@ -140,7 +139,7 @@
             </div>
 
             <div class="row">
-                <button onclick="tan()">tan</button>
+                <button onclick="tan()">tan()</button>
                 <button onclick="sqrt()">√</button>
                 <button class="btn">1</button>
                 <button class="btn">2</button>
