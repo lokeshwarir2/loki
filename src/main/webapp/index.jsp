@@ -17,7 +17,7 @@
         align-items: center;
         min-height: 100vh;
         user-select: none;
-        background: linear-gradient(135deg, #4AB1FF, #2D5CFE);
+        background: #FFFFFF;
     }
 
     .container {
