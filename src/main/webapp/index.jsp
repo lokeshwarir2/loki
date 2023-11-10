@@ -126,7 +126,7 @@
                 <button class="btn">7</button>
                 <button class="btn">8</button>
                 <button class="btn">9</button>
-                <button class="btn">÷</button>
+                <button class="btn">/</button>
             </div>
 
             <div class="row">
@@ -135,7 +135,7 @@
                 <button class="btn">4</button>
                 <button class="btn">5</button>
                 <button class="btn">6</button>
-                <button class="btn">×</button>
+                <button class="btn">*</button>
             </div>
 
             <div class="row">
